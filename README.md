@@ -1,10 +1,10 @@
 # KinderKit-2
 
-KinderKit-2 is a Java-based educational application designed to provide interactive learning tools for children. The project features a drawing canvas and shape recognition functionality to enhance creativity and geometric understanding.
+KinderKit-2 is a Java-based educational application designed to provide interactive learning tools. The project features a drawing canvas and shape recognition functionality to enhance creativity and geometric understanding.
 
 ## Features
 
-- **Drawing Canvas**: An interactive area where children can draw freely, encouraging creativity and motor skills development.
+- **Drawing Canvas**: An interactive area where players can draw freely, encouraging creativity and motor skills development.
 - **Shape Recognition**: Identifies and interacts with basic geometric shapes, aiding in the understanding of fundamental geometry concepts.
 
 ## Getting Started
